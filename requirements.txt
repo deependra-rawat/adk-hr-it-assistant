@@ -1,0 +1,13 @@
+google-cloud-storage
+google-generativeai
+pypdf
+fastapi
+uvicorn
+google-adk
+zeep
+requests
+python-dotenv
+google-cloud-aiplatform 
+websockets
+google-cloud-discoveryengine
+pymysql
