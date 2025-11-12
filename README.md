@@ -11,7 +11,7 @@ It provides intelligent support for both **HR-related** and **IT support** queri
 - **IT Support Assistant**: Handles IT-related queries (e.g., VPN, access issues, MS Teams problems) and can raise Remedy tickets automatically.
 - **Email Summary Agent**: Generates and sends summarized support conversations as professional emails.
 - **Memory Recall Agent**: Retrieves and summarizes past user conversations from BigQuery for continuity.
-- **Tool Integration**: Connects with GCS, SMTP email services, and Remedy for real-world workflow automation.
+- **Tool Integration**: Connects with GCS, SMTP email services, and JIRA for real-world workflow automation.
 
 ---
 
